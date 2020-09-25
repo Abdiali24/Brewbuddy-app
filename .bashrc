@@ -1,0 +1,1 @@
+export ABDI ='Hey man'
